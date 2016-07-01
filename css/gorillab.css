@@ -16,6 +16,14 @@ body {
     font-family: "Source Sans Pro","Helvetica Neue",Helvetica,Arial,sans-serif;
 }
 
+a {
+    color: #ff3666;
+}
+
+.bg-primary {
+    background-color: #ff3666;
+}
+
 .text-vertical-center {
     display: table-cell;
     text-align: center;
