@@ -16,7 +16,7 @@ body {
     font-family: "Source Sans Pro","Helvetica Neue",Helvetica,Arial,sans-serif;
 }
 
-a, .text-primary {
+a, a:focus, a:hover, a:active, .text-primary {
     color: #ff3666;
 }
 
