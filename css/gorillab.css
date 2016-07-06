@@ -17,11 +17,11 @@ body {
 }
 
 a, a:focus, a:hover, a:active, .text-primary {
-    color: #ff3666;
+    color: #1daaf1;
 }
 
 .bg-primary {
-    background-color: #ff3666;
+    background-color: #1daaf1;
 }
 
 .text-vertical-center {
