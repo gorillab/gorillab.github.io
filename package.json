@@ -1,0 +1,24 @@
+{
+  "name": "gorillab.co",
+  "version": "1.0.0",
+  "description": "Gorillab official website",
+  "main": "index.html",
+  "scripts": {
+    "prestart": "npm install",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gorillab/gorillab.github.io.git"
+  },
+  "keywords": [
+    "gorillab"
+  ],
+  "author": "Phat Pham <phatpham9@gmail.com>",
+  "license": "MIT",
+  "homepage": "http://gorillab.co",
+  "dependencies": {
+    "ejs": "2.5.1",
+    "express": "4.14.0"
+  }
+}
