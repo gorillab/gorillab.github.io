@@ -18,7 +18,7 @@
   "license": "MIT",
   "homepage": "http://gorillab.co",
   "dependencies": {
-    "ejs": "2.5.1",
+    "ejs": "2.5.5",
     "express": "4.14.0"
   }
 }
